@@ -1,0 +1,3 @@
+broker.url=tcp://mqtt.test.com:1883
+broker.user=user
+broker.pwd=password
